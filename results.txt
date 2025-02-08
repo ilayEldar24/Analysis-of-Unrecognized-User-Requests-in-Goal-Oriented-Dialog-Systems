@@ -1,0 +1,2 @@
+Banking details: Number of clusters = 64, Number of unclustered = 262
+Covid details: Number of clusters = 35, Number of unclustered = 590
